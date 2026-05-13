@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏛️ Portal de Autossuficiência — Estaca Curitiba Portão
 
-## Getting Started
+> **Ferramenta estratégica para fomento da economia local e apoio ao Plano de Autossuficiência.**
 
-First, run the development server:
+O **Portal de Autossuficiência** é um catálogo digital desenvolvido para conectar membros da estaca, empreendedores e parceiros. O objetivo central é dar visibilidade aos negócios locais, facilitando o acesso da comunidade a fornecedores de confiança e fortalecendo a rede de apoio mútuo dentro da Estaca Curitiba Portão.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Sobre o Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este portal atua como o hub oficial do **Conselho de Autossuficiência**. Ele foi projetado para ser leve, intuitivo e alinhado com os princípios de autossuficiência da Igreja, servindo como uma vitrine organizada para os talentos e serviços da nossa comunidade.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Funcionalidades Principais
 
-To learn more about Next.js, take a look at the following resources:
+*   **📇 Catálogo de Expositores:** Exibição dinâmica com cards visuais, logotipos e descrições detalhadas.
+*   **🔍 Filtros Inteligentes:** Sistema de busca por palavras-chave e categorias (Alimentação, Serviços, Moda, etc.).
+*   **➕ Carregamento Otimizado:** Sistema "Ver Mais" para garantir performance mesmo com grande volume de dados.
+*   **🟢 Direct-to-WhatsApp:** Botões de ação integrados para facilitar a conversão e o contato imediato.
+*   **🎨 Design Institucional:** Interface baseada nos padrões visuais e paleta de cores oficiais da Igreja de Jesus Cristo dos Santos dos Últimos Dias.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Tecnologias e Arquitetura
 
-## Deploy on Vercel
+O projeto foi construído com foco em **baixa manutenção** e **alta performance**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*   **Framework:** [Next.js](https://nextjs.org/) & React.js.
+*   **Estilização:** Styled JSX para isolamento de componentes.
+*   **Gestão de Dados:** Banco de dados estruturado em **JSON**, permitindo que novos expositores sejam adicionados apenas editando um arquivo de texto, sem necessidade de servidores complexos.
+*   **Ícones:** Lucide Icons para uma interface moderna e leve.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📂 Estrutura de Arquivos Relevantes
+
+Para atualizar o portal, os arquivos principais são:
+*   `src/data/empresas.json`: Onde residem todos os dados dos expositores.
+*   `public/images/`: Pasta que armazena as logomarcas e fotos do catálogo.
+
+---
+
+## 📄 Licença e Direitos
+
+Copyright © 2026 **Autossuficiência Brasil**. Todos os direitos reservados.
+*Design inspirado nos padrões oficiais da Intellectual Reserve, Inc.*
