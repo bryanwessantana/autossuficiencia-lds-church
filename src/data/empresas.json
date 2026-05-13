@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nome": "Workshop de Marcenaria",
+    "resumo": "Móveis planejados e reparos em geral com acabamento fino e restauração de antiguidades.",
+    "categoria": "Serviços",
+    "subcategoria": "Marcenaria",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1619759247130-4e7a70f2fe27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFyY2VuYXJpYXxlbnwwfHwwfHx8MA%3D%3D",
+    "whatsapp": "https://wa.me/5541999999999",
+    "website": null
+  },
+  {
+    "id": 2,
+    "nome": "Sabor da Estaca",
+    "resumo": "Bolos decorados, doces finos e salgados para eventos. Encomendas personalizadas para festas.",
+    "categoria": "Alimentação",
+    "subcategoria": "Confeitaria",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541888888888",
+    "website": null
+  },
+  {
+    "id": 3,
+    "nome": "Artesanato Portão",
+    "resumo": "Peças exclusivas em crochê, macramê e bordados feitos à mão com muito carinho.",
+    "categoria": "Artesanato",
+    "subcategoria": "Decoração",
+    "status": "DESTAQUE",
+    "image": "https://images.unsplash.com/photo-1628924172947-113fb23621b3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGFydGVzYW5hdG98ZW58MHx8MHx8fDA%3D",
+    "whatsapp": "https://wa.me/5541777777777",
+    "website": "https://www.artesanatoportao.com.br"
+  },
+  {
+    "id": 4,
+    "nome": "Clean & Organizado",
+    "resumo": "Serviços de limpeza residencial e comercial com profissionais treinados e confiança total.",
+    "categoria": "Serviços",
+    "subcategoria": "Limpeza",
+    "status": "NOVO",
+    "image": "https://plus.unsplash.com/premium_photo-1676810459906-b269db9bd6e7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxpbXBlemElMjByZXNpZGVuY2lhbHxlbnwwfHwwfHx8MA%3D%3D",
+    "whatsapp": "https://wa.me/5541666666666",
+    "website": null
+  },
+  {
+    "id": 5,
+    "nome": "Moda Sustentável",
+    "resumo": "Roupas e acessórios feitos com tecidos reciclados e processos de baixo impacto ambiental.",
+    "categoria": "Moda",
+    "subcategoria": "Vestuário",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541555555555",
+    "website": "https://www.modasustentavel.com"
+  },
+  {
+    "id": 6,
+    "nome": "Tech Support Curitiba",
+    "resumo": "Manutenção de computadores, notebooks e instalação de redes Wi-Fi residenciais.",
+    "categoria": "Serviços",
+    "subcategoria": "TI",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541444444444",
+    "website": null
+  },
+  {
+    "id": 7,
+    "nome": "Horta no Quintal",
+    "resumo": "Venda de mudas orgânicas, adubos naturais e consultoria para montar sua própria horta.",
+    "categoria": "Bem-estar",
+    "subcategoria": "Jardinagem",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541333333333",
+    "website": null
+  },
+  {
+    "id": 8,
+    "nome": " Marmitas Fit & Saudáveis",
+    "resumo": "Refeições congeladas balanceadas para quem busca saúde sem abrir mão do sabor.",
+    "categoria": "Alimentação",
+    "subcategoria": "Fitness",
+    "status": "DESTAQUE",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541222222222",
+    "website": null
+  },
+  {
+    "id": 9,
+    "nome": "Pintura & Cor",
+    "resumo": "Serviços de pintura residencial interna e externa com rapidez, limpeza e organização.",
+    "categoria": "Serviços",
+    "subcategoria": "Reforma",
+    "status": "NOVO",
+    "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&q=80&w=600",
+    "whatsapp": "https://wa.me/5541111111111",
+    "website": null
+  }
+]
