@@ -7,6 +7,22 @@
   --church-teal: #0089A3;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: inherit; 
+}
+
+.hero-content {
+  background-color: #003459;
+  overflow: hidden;
+}
+
 .church-blue-text { color: var(--church-blue); }
 .bg-church-blue { background-color: var(--church-blue); }
 .bg-church-teal { background-color: var(--church-teal); }
