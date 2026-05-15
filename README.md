@@ -37,7 +37,8 @@ O projeto foi construído com foco em **baixa manutenção** e **alta performanc
 
 Para atualizar o portal, os arquivos principais são:
 *   `src/data/empresas.json`: Onde residem todos os dados dos expositores.
-*   `public/images/`: Pasta que armazena as logomarcas e fotos do catálogo.
+*   `public/images/`: Pasta que armazena as fotos gerais.
+*   `public/logos`: Pasta que contém as logos das empresas presentes nos estandes do evento.
 
 ---
 
