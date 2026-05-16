@@ -406,5 +406,29 @@
     "imageMode": "contain"  ,
     "whatsapp": "https://wa.me/5541999155279",
     "website": null
+  },
+  {
+    "id": 35,
+    "nome": "AJJ TEC",
+    "resumo": "Segurança Eletrônica: Alarmes, Câmeras, Cerca Elétrica e Automação.",
+    "categoria": "Serviços",
+    "subcategoria": "Segurança",
+    "status": "EXPOSITOR",
+    "image": "/logos/ajj-tec.jpg",
+    "imageMode": "cover",
+    "whatsapp": "https://wa.me/5541998458250",
+    "website": null
+  },
+  {
+    "id": 36,
+    "nome": "PowerBPO Soluções Integradas",
+    "resumo": "Terceirização do financeiro das empresas e consultoria financeira.",
+    "categoria": "Serviços",
+    "subcategoria": "Finanças",
+    "status": "EXPOSITOR",
+    "image": "/logos/power-bpo.png",
+    "imageMode": "contain",
+    "whatsapp": "https://wa.me/5541988831809",
+    "website": null
   }
 ]
