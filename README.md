@@ -28,7 +28,7 @@ O projeto foi construído com foco em **baixa manutenção** e **alta performanc
 
 *   **Framework:** [Next.js](https://nextjs.org/) & React.js.
 *   **Estilização:** Styled JSX para isolamento de componentes.
-*   **Gestão de Dados:** Banco de dados estruturado em **JSON**, permitindo que novos expositores sejam adicionados apenas editando um arquivo de texto, sem necessidade de servidores complexos.
+*   **Arquitetura Híbrida:** Utiliza persistência de dados em JSON para o catálogo de expositores e MongoDB Atlas via API Routes (Serverless) para a gestão dinâmica de sorteios em tempo real.
 *   **Ícones:** Lucide Icons para uma interface moderna e leve.
 
 ---
@@ -37,7 +37,8 @@ O projeto foi construído com foco em **baixa manutenção** e **alta performanc
 
 Para atualizar o portal, os arquivos principais são:
 *   `src/data/empresas.json`: Onde residem todos os dados dos expositores.
-*   `public/images/`: Pasta que armazena as logomarcas e fotos do catálogo.
+*   `public/images/`: Pasta que armazena as fotos gerais.
+*   `public/logos`: Pasta que contém as logos das empresas presentes nos estandes do evento.
 
 ---
 
